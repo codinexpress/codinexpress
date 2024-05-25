@@ -6,7 +6,7 @@
 - 👀 I’m interested in programming, astronomy, and games about astronomy
 - 🌱 I’m currently learning about programming, math and science
 - 💞️ I’m looking to collaborate on games, simulations and other projects
-- self taught programmer
+- 💻 self taught programmer
 
 ### my languages
 
