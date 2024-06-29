@@ -13,11 +13,11 @@
 | Language | Learning | Self Estimated Progress |
 |---|---|---|
 | Python | True | 42% |
-| JS | TRUE | 18% |
-| C | TRUE | 12% |
-| C++ | TRUE | 10% |
-| PHP | TRUE | 6% |
-| HTML | TRUE | 36% |
+| JS | true | 18% |
+| C | true | 12% |
+| C++ | true | 10% |
+| PHP | true | 6% |
+| HTML | true | 36% |
 | MarkDown | TRUE | 47%|
 
 
